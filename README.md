@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/aliyajoub"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@k4it.sd"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/aliadam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ali418"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
       <h3>👋 About Me</h3>
       <p>I am a <b>Software Engineer</b> and the founder of <a href="https://www.key4infotech.com/frontend/index.php" target="_blank"><b>K4 IT</b></a>, where I specialize in bridging the gap between advanced <b>Artificial Intelligence</b> and scalable <b>SaaS architectures</b>.</p>
       <p>With over <b>seven years of experience</b> in the tech industry, I build solutions that turn complex technical challenges into measurable business value, operational efficiency, and enhanced security.</p>
-      <p><b>� My Expertise:</b> Developing everything from real-time <b>Computer Vision</b> pipelines to comprehensive <b>ERP systems</b>, utilizing industry-standard practices like OWASP security and high-performance database aggregations.</p>
+      <p><b>🚀 My Expertise:</b> Developing everything from real-time <b>Computer Vision</b> pipelines to comprehensive <b>ERP systems</b>, utilizing industry-standard practices like OWASP security and high-performance database aggregations.</p>
     </td>
     <td width="35%" align="center">
       <img src="https://komarev.com/ghpvc/?username=ali418&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -77,9 +77,21 @@
       <a href="https://github.com/ali418/Weapon-Detection-and-Alert-System"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="50%" align="center">
-      <h3>� KGL Groceries</h3>
+      <h3>📈 KGL Groceries</h3>
       <p>Full-stack system for local agri-trading, featuring secure role-based operations.</p>
       <a href="https://kgl-groceries.up.railway.app/marketing"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🍽️ Restaurant & Cafés Management</h3>
+      <p>All-in-one system for restaurants & cafés: POS, inventory, customers, reports, and QR online orders.</p>
+      <a href="https://cafes-markting.up.railway.app/login"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge"/></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏢 K4 IT Website</h3>
+      <p>Company website showcasing services: web development, e-commerce, mobile apps, and project delivery.</p>
+      <a href="https://www.key4infotech.com/frontend/index.php"><img src="https://img.shields.io/badge/🌐_Website-0e75b6?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
