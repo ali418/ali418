@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/aliyajoub"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contact@k4it.sd"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-adam-31a9812a3?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-ali--adam-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/256741490119"><img src="https://img.shields.io/badge/WhatsApp-%2B256741490119-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:Aliyajoub@gmail.com"><img src="https://img.shields.io/badge/Email-Aliyajoub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ali418"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
